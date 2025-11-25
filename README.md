@@ -11,11 +11,6 @@
 ### Pitch Deck
 - Link to pitch deck: [Pitch Deck](https://gamma.app/docs/AgriBackup-tml8dxii39r35b2)
 
-### Certificates
-- **Samwel Gachiri**: [Certificate](https://drive.google.com/file/d/1aJ1hk7nL32OVWq9JtTjvmAAmcWaa-Fvo/view?usp=sharing)
-- **Beatrice Wanjiru**: [Certificate](https://drive.google.com/file/d/1bp7kQePvY1AVofYksm9EnbMUbogEcJ02/view?usp=sharing)
----
-
 ## 📋 Table of Contents
 - [Introduction](#-introduction)
 - [EUDR Compliance Features](#-eudr-compliance-features)
